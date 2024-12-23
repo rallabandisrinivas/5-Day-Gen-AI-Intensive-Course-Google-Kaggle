@@ -13,7 +13,7 @@ Learn about the conceptual underpinning of embeddings and vector databases, incl
 Day 3: Generative AI Agents
 Learn to build sophisticated AI agents by understanding their core components and the iterative development process.
 
-Day 4: Domain-Specific LLMs 
+Day 4: Domain-Specific LLMs  
 Delve into the creation and application of specialized LLMs like SecLM and Med-PaLM, with insights from the researchers who built them.
 
 Day 5: MLOps for Generative AI
